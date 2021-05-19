@@ -1,2 +1,2 @@
 # git
-Git gud at git commands
+*Git gud at git commands
